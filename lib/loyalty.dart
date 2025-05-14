@@ -1,3 +1,3 @@
 library loyalty;
 
-export 'package:sdktest/loyalty.dart';
+export 'src/public/loyalty_sdk.dart';
